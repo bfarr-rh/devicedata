@@ -3,7 +3,7 @@
   <acl>
     <acl-filter>
       <name>cpm</name>
-      <type>ipv4</type>
+      <type>ipv6</type>
       <statistics-per-entry>true</statistics-per-entry>
       <entry>
         <sequence-id>10</sequence-id>
