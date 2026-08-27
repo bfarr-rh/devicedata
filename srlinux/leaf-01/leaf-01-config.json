@@ -1,6 +1,6 @@
 {
     "auth_status": "COMPLIANT",
-    "datetime": "2026-08-27-09:22:14",
+    "datetime": "2026-08-27-09:26:08",
     "diff": [
         "diff --git a/srlinux/leaf-01/leaf-01-config.xml b/srlinux/leaf-01/leaf-01-config.xml",
         "index 2c679e8..55055e8 100644",
