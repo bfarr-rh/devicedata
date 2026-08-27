@@ -3,6 +3,6 @@
 ## srlinux
 | Host / Device | Baseline Differences | Time Compared | Compliant
 | :--- | :--- | :--- | :--- |
-| [leaf-01](srlinux/leaf-01/leaf-01-config.xml) | Yes | 2026-08-27-05:00:29 | |
-| [leaf-02](srlinux/leaf-02/leaf-02-config.xml) | No changes | 2026-08-27-05:00:29 | |
+| [leaf-01](srlinux/leaf-01/leaf-01-config.xml) | Yes | 2026-08-27-05:15:24 | |
+| [leaf-02](srlinux/leaf-02/leaf-02-config.xml) | No changes | 2026-08-27-05:15:24 | |
 
