@@ -4,6 +4,6 @@ Total Devices Discovered: 2
 
 | Group | Host / Device | Baseline Differences | Time Compared | Auth Compliance
 | :--- | :--- | :--- | :--- | :--- |
-srlinux | [leaf-01-config](srlinux/leaf-01/leaf-01-config.xml) | Yes | 2026-09-17-07:00:36 | COMPLIANT |
-srlinux | [leaf-02-config](srlinux/leaf-02/leaf-02-config.xml) | No changes | 2026-09-17-07:00:36 | COMPLIANT |
+srlinux | [leaf-01-config](srlinux/leaf-01/leaf-01-config.xml) | Yes | 2026-09-17-07:30:37 | COMPLIANT |
+srlinux | [leaf-02-config](srlinux/leaf-02/leaf-02-config.xml) | No changes | 2026-09-17-07:30:37 | COMPLIANT |
 
